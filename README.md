@@ -24,3 +24,5 @@ The poster highlights:
 ## 📂 Files
 1. `Poster.png`: A visual summary of the project.
 2. `NLP_Abusive_Relationship.pdf`: Pre-rendered version of the notebook for easy viewing.
+
+With Gefen Pustelnic and Itamar Shahar
